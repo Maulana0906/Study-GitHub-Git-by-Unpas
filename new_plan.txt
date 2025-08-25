@@ -1,0 +1,3 @@
+plan : 
+1. Learn GitHub & Git
+2. Learn express js
